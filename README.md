@@ -8,15 +8,15 @@ https://text-translator-nimisha.netlify.app/
 Auto-detect source language — just type or paste text, no need to select the input language
 Translate into 16+ languages, including English, German, Hindi, French, Italian, Japanese, Spanish, Swedish, Thai, Turkish, Serbian, Russian, Vietnamese, Korean, Chinese, and Nepali.
 
-Swap — instantly swap the input and translated text with one click
-Clear — reset both text boxes in one click
-Loading state — shows a spinner while translation is in progress
-Error handling — friendly error message if the translation request fails
-Usage analytics (via Supabase):
-Tracks total number of translations performed
-Tracks total number of app visits
-Responsive design — works on both desktop and mobile screens
-Minimal, distraction-free UI with a soft green/neutral color palette
+* Swap — instantly swap the input and translated text with one click
+* Clear — reset both text boxes in one click
+* Loading state — shows a spinner while translation is in progress
+* Error handling — friendly error message if the translation request fails
+* Usage analytics (via Supabase):
+* Tracks total number of translations performed
+* Tracks total number of app visits
+* Responsive design — works on both desktop and mobile screens
+* Minimal, distraction-free UI with a soft green/neutral color palette
 
 ## Tech Stack
 Frontend: React, Vite
