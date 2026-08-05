@@ -1,6 +1,9 @@
 ## Text Translator
 A simple, clean web app for translating text between multiple languages, built with React + Vite and powered by the MyMemory Translation API. Includes basic usage analytics via Supabase.
 
+## Live Demo
+https://text-translator-nimisha.netlify.app/
+
 ## Features
 Auto-detect source language — just type or paste text, no need to select the input language
 Translate into 16+ languages, including English, German, Hindi, French, Italian, Japanese, Spanish, Swedish, Thai, Turkish, Serbian, Russian, Vietnamese, Korean, Chinese, and Nepali.
